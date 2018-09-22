@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-this is my playground for practicing 20 most used python design patterns.
+Scratch pad
 """
 __author__ = "Amr Khamis"
 __copyright__ = "Copyright 2018"
@@ -11,10 +11,3 @@ __maintainer__ = "Amr Khamis"
 __email__ = "akkk33@pm.me"
 __status__ = "Production"
 
-
-class Main():
-    pass
-
-
-if __name__ == '__main__':  # code to execute if called from command-line
-    pass  # do nothing - code deleted
